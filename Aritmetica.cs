@@ -10,14 +10,7 @@ namespace Calculos
 /// Implementa operações aritméticas
 /// </summary>
     internal static class Aritmetica
-        /// <summary>
-        /// Tipo de conversão de Temperatura a executar
-        /// </summary>
-        public enum ConversaoTemperatura
-        { 
-            Nulo =0,
-            CelsiusFahrenheit,
-            FahernheitCelcius}
+     
     {/// <summary>
     /// Operação Somar
     /// </summary>
@@ -36,7 +29,14 @@ namespace Calculos
         {
             return x - y;
         }
-        
-        
+    /// <summary>
+    /// Operação Multipilicar
+    /// </summary>
+    /// <returns>returnar a multiplicação de dois inteiros.</returns>
+    public static int Multiplicar(int x, int y)
+    {
+        return x * y;
     }
+
+}
 }
