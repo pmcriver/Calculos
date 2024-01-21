@@ -1,0 +1,55 @@
+[33mcommit 562c5726642abf8c042abdb745243ceb165039c4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:24:32 2024 +0000
+
+    Adicionado Codigo de teste
+
+[33mcommit 0c964a38478e8cb6cf5345d24d54f78ddf27158b[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:19:09 2024 +0000
+
+    Criar classe conversoes e remover na aritmetica
+    
+    O método temperatura foi removido da aritmetica e adicionado a calculos
+
+[33mcommit 865786f49443c01558dd40ecc6c79bed2f0f66b6[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:12:50 2024 +0000
+
+    Tornar Classes estáticas
+
+[33mcommit 78602ab91b0f8bd6f335e77abf0c4aebdef0ae65[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:10:21 2024 +0000
+
+    Adicionar metodo converterTemperatura
+
+[33mcommit b54ae9c5eb6dde6dbb80b95e36f1bfbb5569e76e[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:02:31 2024 +0000
+
+    Adicionar comentários
+
+[33mcommit e4ea408dae9d1f7fafbb26cc3e7f185a61e2bb73[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:01:37 2024 +0000
+
+    Adicionar método Subtrair
+
+[33mcommit fb0971c3339f3f52589144c391f8434b6e1e70d2[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 12:00:00 2024 +0000
+
+    Criar class aritmetica e criar metodo Somar
+
+[33mcommit 7cc926686e402f25bbcd0aea9e99b8b9bcd6c700[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 11:47:41 2024 +0000
+
+    Criar projeto
+
+[33mcommit da5de7b84ae8059da71217a2274991e7239bab22[m
+Author: pmcriver <156025519+pmcriver@users.noreply.github.com>
+Date:   Sun Jan 21 11:44:38 2024 +0000
+
+    Initial commit
